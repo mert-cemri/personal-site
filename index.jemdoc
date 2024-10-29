@@ -1,8 +1,9 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
 == Mert Cemri
 
+# https://bliss.eecs.berkeley.edu
 ~~~
-{}{img_left}{me_1.jpeg}{alt text}{326px}{245px}
+{}{img_left}{me_1.jpeg}{alt text}{245px}{245px}
 [https://people.eecs.berkeley.edu/~mert_cemri Mert Cemri]\n 
 Ph.D. Student at UC Berkeley \n
 Berkeley, CA, United States \n
@@ -11,7 +12,7 @@ Email: cemri@berkeley.edu \n
 \[[https://scholar.google.com/citations?user=sMEFwf8AAAAJ&hl=en Google Scholar]\]\[[Mert_Cemri_Final_Resume.pdf Curriculem Vitae]\] \n
 ~~~
 
-
+# rsync -av /home/mert/personal/personal-site -e ssh mert_cemri@login.eecs.berkeley.edu:/home/eecs/mert_cemri/public_html/
 
 
 #at Baton Rouge, Louisiana, USA. (March 19, 2021)
