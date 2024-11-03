@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
 == Mert Cemri
-# rsync -av /home/mert/personal/personal-site -e ssh mert_cemri@login.eecs.berkeley.edu:/home/eecs/mert_cemri/public_html/
+# rsync -av /home/mert/personal/personal-site/ -e ssh mert_cemri@login.eecs.berkeley.edu:/home/eecs/mert_cemri/public_html/
 # https://bliss.eecs.berkeley.edu
 # https://people.eecs.berkeley.edu/~mert_cemri
 
